@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<h5 align="center">Status: Actively working on private repo :)</h5>
+
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=amalsyahmi&theme=onedark&hide_border=true"/>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
